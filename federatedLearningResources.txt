@@ -1,0 +1,9 @@
+(1)Federated Learning Paper: https://arxiv.org/abs/1602.05629
+(2)Local Stochastic Descent: https://arxiv.org/abs/2102.13152
+(3)Sparsed Federated Learning: https://arxiv.org/abs/2203.13517
+(4)Federated Learning Is Not Private: https://arxiv.org/abs/2112.02918
+(5)Reconstructing Hardened Federated Learning: https://arxiv.org/abs/2301.04017
+(6)Sparse Federated Analytics: https://arxiv.org/abs/2111.02356
+(7)Andrew Trask Lecture: https://rb.gy/sq4bvg
+(8)Openmined Courses: https://courses.openmined.org/courses
+(9)Cynthiya Park: https://rb.gy/p1l6hs

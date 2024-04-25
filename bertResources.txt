@@ -1,0 +1,14 @@
+RESEARCH PAPERS:
+(1)BERT Paper: https://arxiv.org/abs/1810.04805
+(2)Knowledge Distillation Paper: https://arxiv.org/abs/1503.02531
+(3)DistilBERT: https://arxiv.org/abs/1910.01108
+(4)TinyBERT: https://arxiv.org/abs/1909.10351
+(5)ALBERT: https://arxiv.org/abs/1909.11942
+(6)List of BERT variants: https://www.scaler.com/topics/nlp/bert-variants/
+(7)Internal Functioning of BERT: Lecture Series https://shorturl.at/oGP68
+(8)Teacher Student Model: https://www.youtube.com/watch?v=Z87AXtDBcds
+(9)Teacher Student Model Code Example: https://shorturl.at/kpO08
+(10)Knowledge Distillation Techniques: https://www.youtube.com/watch?v=tT9Lnt6stwA
+(11)Detailed Google Colab Code BERT: https://shorturl.at/kCGN7
+(12)Attention Is All You Need: https://arxiv.org/abs/1706.03762
+(13)BERT Variants Illustrated: https://medium.com/@slavahead
